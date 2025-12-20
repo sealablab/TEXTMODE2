@@ -1,5 +1,6 @@
 #TEXTMODE2
 A collection of configs for all my fav textmode utilities.
+Now with 2025 xmas update
 
 # [[ChangeLog]]
 # kitty
